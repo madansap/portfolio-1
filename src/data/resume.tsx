@@ -8,7 +8,7 @@ export const DATA = {
   location: "Kathmandu, Nepal",
   locationLink: "https://www.google.com/maps/place/kathmandu",
   description:
-    "I love turning problemss into productsss.",
+    "I love turning problems  into products.",
   summary:
     "Started selling things online at 16 which got me into designing and building websites. I freelanced for five years as a designer,while I went to university to pursue a degree in computer science.I then joined a startup as a product designer and left it to hone my development skills. I also had the pleasure of being a part of the cohort of build space called buildspace sf5.",
   avatarUrl: "/me.png",
